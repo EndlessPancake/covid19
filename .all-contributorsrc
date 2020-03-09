@@ -2,13 +2,12 @@
   "projectName": "covid19",
   "projectOwner": "EndlessPancake",
   "files": [
-    ""CONTRIBUTORS.md"
+    "CONTRIBUTORS.md"
   ],
   "imageSize": 100,
   "contributorsPerLine": 7,
   "repoType": "github",
   "repoHost": "https://github.com",
-  "commitConvention": "angular",
   "skipCi": true
   "contributors": [
       {
