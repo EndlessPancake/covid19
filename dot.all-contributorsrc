@@ -1,0 +1,23 @@
+{
+  "projectName": "covid19",
+  "projectOwner": "EndlessPancake",
+  "files": [
+    "CONTRIBUTORS.md"
+  ],
+  "imageSize": 100,
+  "contributorsPerLine": 7,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+  "contributors": [
+      {
+      "login": "EndlessPancake",
+      "name": "endless.pancake",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/25530704?v=4",
+      "profile": "https://github.com/EndlessPancake",
+      "contributions": [
+        "tool"
+      ]
+    }
+  ]
+}

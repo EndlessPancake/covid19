@@ -106,3 +106,5 @@ Tokyo Covid-19 response site contributors
 ご協力に感謝です！！！
 
 ![nyan](https://i.gyazo.com/f04e7468ea6e4bb6e87f6817fea980f9.gif)
+
+------ End ------
